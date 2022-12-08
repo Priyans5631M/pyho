@@ -1,0 +1,2 @@
+a="haku"
+print(a)
